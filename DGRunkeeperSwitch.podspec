@@ -16,4 +16,5 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '8.0'
   s.ios.frameworks = ['UIKit', 'Foundation']
   
+  s.swift_version = '5.0'
 end
